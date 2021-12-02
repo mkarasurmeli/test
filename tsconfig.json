@@ -9,7 +9,8 @@
     "target": "es5",
     "experimentalDecorators": true,
     "preserveConstEnums": true,
-    "suppressImplicitAnyIndexErrors": true
+    "suppressImplicitAnyIndexErrors": true,
+    "outDir": "dist"
   },
   "include": ["./app/*"],
   "exclude": ["node_modules"]
