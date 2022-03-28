@@ -9,3 +9,5 @@
     });
         
     mapView.ui.add(streetView, 'top-left');
+
+test
